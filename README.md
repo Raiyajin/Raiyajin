@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Raiyajin;
+- 👀 I’m interested in software and game development;
+- 🌱 I’m currently learning Javascript and ReactJS;
+- 💞️ I’m looking to collaborate on C sharp project to improve;
+- 📫 How to reach me : rayanhaouas792@gmail.com;
