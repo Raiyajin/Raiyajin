@@ -1,3 +1,3 @@
-Hi I'm Rayan 👋
+Hi, I'm Rayan 👋
 
-I enjoy using python and am always looking for new challenges in software development projects ! 🐍
+I am a DevOps that loves new technologies.
